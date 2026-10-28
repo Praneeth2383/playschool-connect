@@ -1,10 +1,10 @@
 export const API_URLS = {
-  auth: "https://8aey0m4yvf.execute-api.ap-south-2.amazonaws.com/default/auth",
-  users: "https://elgw4pwn4m.execute-api.ap-south-2.amazonaws.com/default/users",
-  curriculum: "https://fy43w82sx3.execute-api.ap-south-2.amazonaws.com/default/circullam",
-  reports: "https://3c4dycar5b.execute-api.ap-south-2.amazonaws.com/default/reports",
-  seed: "https://7s0thxe2lj.execute-api.ap-south-2.amazonaws.com/default/seed_data",
-  gallery: "https://hme2pc3rq5.execute-api.ap-south-2.amazonaws.com/default/gallery",
-  lessons: "https://ao3dgevoib.execute-api.ap-south-2.amazonaws.com/default/lessons",
-  notifications: "https://y9yt0s3lz4.execute-api.ap-south-2.amazonaws.com/default/notification",
+  auth: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/auth",
+  users: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/users",
+  curriculum: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/circullam",
+  reports: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/reports",
+  seed: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/seed_data",
+  gallery: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/gallery",
+  lessons: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/lessons",
+  notifications: "https://lecw7brtgb.execute-api.ap-south-1.amazonaws.com/default/notification",
 };
